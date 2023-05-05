@@ -1,0 +1,128 @@
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+/* Reset styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f7f7f7;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+h1, h2 {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 1.2rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.cta-button:hover {
+  background-color: #0062cc;
+}
+
+/* Header styles */
+header {
+  background-color: #fff;
+  text-align: center;
+  padding: 2rem;
+  border-bottom: 1px solid #ddd;
+}
+
+nav {
+  margin-bottom: 1rem;
+}
+
+nav a {
+  margin-right: 1rem;
+}
+
+/* Main styles */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+.plan {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 2rem;
+}
+
+.plan-name {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.plan-price {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.plan ul {
+  margin-bottom: 2rem;
+}
+
+.plan li {
+  margin-bottom: 0.5rem;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+footer nav {
+  margin-bottom: 1rem;
+}
+
+footer a {
+  color: #fff;
+}
+
+
