@@ -31,6 +31,26 @@ export class WorkoutLandingComponent implements OnInit {
         image: 'https://via.placeholder.com/300x200.png?text=Card+4',
         description: 'This is the fourth card',
       },
+      {
+        title: 'Card 5',
+        image: 'https://via.placeholder.com/300x200.png?text=Card+1',
+        description: 'This is the first card',
+      },
+      {
+        title: 'Card 6',
+        image: 'https://via.placeholder.com/300x200.png?text=Card+2',
+        description: 'This is the second card',
+      },
+      {
+        title: 'Card 7',
+        image: 'https://via.placeholder.com/300x200.png?text=Card+3',
+        description: 'This is the third card',
+      },
+      {
+        title: 'Card 8',
+        image: 'https://via.placeholder.com/300x200.png?text=Card+4',
+        description: 'This is the fourth card',
+      },
     ];
   }
 
